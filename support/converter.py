@@ -10,6 +10,6 @@ def convert_first_40_seconds(mp3_file, wav_file):
     print(f"Conversion completed: {mp3_file} -> {wav_file}")
 
 mp3_file = 'billie-jean-michael-jackson.mp3'
-wav_file = 'nigga.wav'
+wav_file = 'tes.wav'
 
 convert_first_40_seconds(mp3_file, wav_file)
